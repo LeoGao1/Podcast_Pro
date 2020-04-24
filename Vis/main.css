@@ -1,0 +1,27 @@
+body{
+  background-color: #ece9e6;
+  color: #333;
+  font-family: "IBM Plex Serif",Georgia,'Times New Roman',Times,serif;
+}
+
+.center {
+  text-align: center;
+}
+
+.chart1{
+    width: 100%;
+    align: center;
+}
+.chart2{
+    width: 60%;
+    float: center;
+    align: 'center';
+
+}
+.chart3{
+    width: 60%;
+    height:200%;
+    align: 'center';
+    float: center;
+
+}
